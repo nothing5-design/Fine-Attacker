@@ -9,7 +9,7 @@ Fine Attacker is used to attack any websites and make it down.And it us only for
 
 * `apt install git -y`
 
-* `git clone https://github.com/rajkumardusad/Fine-Attacker.git`
+* `git clone https://github.com/rajkumardusad/Fine-Attacker`
 
 * `cd Fine-Attacker`
 
