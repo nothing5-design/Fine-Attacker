@@ -11,14 +11,14 @@ Fine Attacker is used to attack any websites and make it down.And it us only for
 
 * `git clone https://github.com/rajkumardusad/Fine-Attacker.git`
 
-* `cd Fine-Attackerr`
+* `cd Fine-Attacker`
 
 * `chmod +x install`
 
 * `sh install` or `./install`
 
 
-## How to use IP-Tracer
+## How to use Fine-Attacker
 
 * `you have to put no. of threads in lakhs to make it work
 
@@ -26,4 +26,4 @@ Fine Attacker is used to attack any websites and make it down.And it us only for
 
 
 
-**Made by Amazer and cyber boy and SKOP**
+**Made by Amazer and Cyber boy and SKOP**
